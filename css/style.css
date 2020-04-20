@@ -461,7 +461,9 @@ tr > td:nth-child(2) {
     font-weight: 400;
 }
 
-
+.blog-img {
+    padding: 15px 0px 15px 0px;
+}
 
 /* Owl Carousel Navigation */
 
